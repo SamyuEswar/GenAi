@@ -60,11 +60,6 @@ LANGFUSE_HOST=https://cloud.langfuse.com
 ```bash
 python main.py
 ```
-
-## Conclusion
-These exercises provide a step-by-step approach to understanding:
- 📌Basic AI calls → Agents → Graph workflows → Tools → Monitoring
-
 ## 🎯 Conclusion
 
 These exercises provide a step-by-step approach to understanding:
