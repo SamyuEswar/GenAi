@@ -51,7 +51,7 @@ python -m pip install openai langchain langchain-groq langgraph python-dotenv la
 GROQ_API_KEY=your_api_key_here
 GROQ_MODEL_NAME=llama-3.3-70b-versatile
 
-# Necessary for Exercise 5 alone
+#### Necessary for Exercise 5 alone
 LANGFUSE_PUBLIC_KEY=your_public_key
 LANGFUSE_SECRET_KEY=your_secret_key
 LANGFUSE_HOST=https://cloud.langfuse.com
