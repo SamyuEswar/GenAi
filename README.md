@@ -45,7 +45,7 @@ This repository contains a series of beginner-friendly exercises to understand h
 ### 1️⃣ Install Python Packages
 ```bash
 python -m pip install openai langchain langchain-groq langgraph python-dotenv langfuse
-
+```
 ### 2️⃣ Create `.env` File
 ```bash
 GROQ_API_KEY=your_api_key_here
@@ -55,11 +55,15 @@ GROQ_MODEL_NAME=llama-3.3-70b-versatile
 LANGFUSE_PUBLIC_KEY=your_public_key
 LANGFUSE_SECRET_KEY=your_secret_key
 LANGFUSE_HOST=https://cloud.langfuse.com
-
+```
 ### 3️⃣ Run Exercises
 ```bash
 python main.py
+```
 
+## Conclusion
+These exercises provide a step-by-step approach to understanding:
+ 📌Basic AI calls → Agents → Graph workflows → Tools → Monitoring
 
 ## 🎯 Conclusion
 
